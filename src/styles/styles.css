@@ -1,0 +1,31 @@
+.App {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+  }
+  
+  .editor-toolbar {
+    width: 250px;
+  }
+  
+  .editor-toolbar input,
+  .editor-toolbar button {
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+  }
+  
+  .color-picker {
+    margin-bottom: 20px;
+  }
+  
+  .upload-background {
+    margin-bottom: 20px;
+  }
+  
+  .canvas-container {
+    width: 600px;
+    height: 400px;
+    border: 1px solid #ccc;
+  }
+  
